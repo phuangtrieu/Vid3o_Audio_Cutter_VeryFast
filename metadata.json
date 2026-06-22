@@ -1,0 +1,6 @@
+{
+  "name": "Media Cutter",
+  "description": "Dễ dàng cắt, trim video, file âm thanh, chuyển đổi chất lượng cao",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
